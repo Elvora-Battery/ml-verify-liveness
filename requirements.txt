@@ -1,0 +1,7 @@
+Flask
+google-cloud-vision
+google-auth
+requests
+gunicorn
+opencv-python
+
